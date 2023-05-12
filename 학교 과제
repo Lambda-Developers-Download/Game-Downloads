@@ -1,0 +1,14 @@
+#inc <vegaio.h>
+#inc <engine.h>
+
+vs.open()
+vega.print("Classical Music");  //Haydn, Mozart, Beethoven
+//Classical Music: 교향곡, 3악장 소나타
+//이를 바탕으로 사람의 정서 표현 가능
+//정서 표현: 듣는이가 직관적 공감해야함 -> 보편점 음악, 화성학
+//하이든, 고전시대 음악의 틀을 만듬
+//모짜렐라, 베토벤 모두 만나봄
+//모짜르트, 3살부터 피아노를 쳤음. 영재.
+//베토벤, 장애 극복후 여러 곡 작곡함
+//양식을 큰 규모로 발전시킴, 낭만주의의 초석
+vs.close
